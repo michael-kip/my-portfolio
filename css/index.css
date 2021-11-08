@@ -57,14 +57,24 @@ footer{
     color: white;
     font-size: 15px;
     padding: 10px;
-    margin: 5px;
+    
 }
 #contact{
     background-color: #ebedea;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 #about{
     background-color: #806f62;
+    margin-right: 20px;
+    margin-left: 20px;
 }
 #projects{
     background-color: #cecfc3;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.intro{
+    
+    background-color: ;
 }
