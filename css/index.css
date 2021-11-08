@@ -46,9 +46,25 @@ section{
     align-content: center;
     box-align: center
 }
+div a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
 footer{
     background-color: gray;
     list-style: none;
     color: white;
-    font-size: 10px;
+    font-size: 15px;
+    padding: 10px;
+    margin: 5px;
+}
+#contact{
+    background-color: #ebedea;
+}
+#about{
+    background-color: #806f62;
+}
+#projects{
+    background-color: #cecfc3;
 }
