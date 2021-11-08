@@ -36,9 +36,9 @@ section{
     align-content: center;
 }
 .projects .img-fluid{
-    height: 300px;
-    width: 300px;
-    border-radius: 150px;
+    height: 240px;
+    width: 240px;
+    border-radius: 120px;
     padding: 2px;
     margin: 5px;
 }
