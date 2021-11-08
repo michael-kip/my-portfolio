@@ -6,7 +6,7 @@
 
 ## Description
 
-This project is a about my software development portfolio. It has the projects I've worked on so, about section which contains my hobbies and interest.
+This project is a about my software development portfolio. It has the projects I've worked on so, about section which contains my hobbies and interest and my contacts.
 
 
 ## Live Page 
