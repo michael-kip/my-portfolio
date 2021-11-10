@@ -25,7 +25,8 @@ https://michael-kip.github.io/ip_one/
 ## Technologies Used
 - HTML
 - CSS
-- BOOTSTRAPP
+- BOOTSTRAP
+- Markdown
 ## Reference
 * HTML5
 ## BDD
